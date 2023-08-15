@@ -1,3 +1,6 @@
+#My Backend environment
+.venv
+__pycache__
 # Logs
 logs
 *.log
